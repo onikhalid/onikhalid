@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onikhalid, I’m a web developer. In a  bid to make the web more accesible I spend every day experimenting with HTML, CSS, and JavaScript
 - 👀 I’m interested in making connections with like-minded web developers who are dedicated to making the web a better place 
-- 🌱 I’m currently learning JS and React
+- 🌱 I’m currently learning React and Framer Motion
 - 📫 How to reach me onikhalidayo@gmail.com, twitter.com/onikhalidayo
 
 
@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onikhalid&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
