@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @onikhalid, I’m a web developer. In a  bid to make the web more accessible I spend every day experimenting with HTML, CSS, and JavaScript
+- 👋 Hi, I’m @onikhalid, I’m a web developer. In a  bid to make the web more accessible, I spend every day experimenting with HTML, CSS, and JavaScript
 - 👀 I’m interested in making connections with like-minded web developers who are dedicated to making the web a better place 
-- 🌱 I’m currently learning  Framer Motion
+- 🌱 I’m currently learning Framer Motion
 - 📫 How to reach me onikhalidayo@gmail.com, twitter.com/onikhalidayo
 
 
